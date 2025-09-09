@@ -1,0 +1,21 @@
+#page-container {width: 760px; margin: auto; background: red;}
+#header {
+    background: blue;
+    height: 150px;
+    }
+    #content {
+    background: green;
+    }
+    #footer {
+    background: orange;
+    height: 66px;
+    }
+    
+    #side_bar{
+        background:#996600;
+        }
+        #side_bar{
+            background:#996600
+            00; float:right;
+            width:150px;}
+    
